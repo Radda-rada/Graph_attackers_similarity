@@ -7,6 +7,7 @@ Domain - What was attacked?
 Number of attacks - How much events belong to which IP?
 
 What graphs can be built:
+
 Graph 1 - Number of Attacks per Attacker (This could be a bar graph where the x-axis is the unique source IP addresses (or attackers), and the y-axis is the count of attacks from each source IP. This will show you which attackers are most active.)
 
 Graph 2 - Types of Attacks per Attacker. (This could be a stacked bar graph or grouped bar chart where the x-axis is the source IPs and the y-axis is the count of attacks, and each type of attack is represented by a different color (stacked) or bar (grouped). This shows you what types of attacks each attacker is launching.)
