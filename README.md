@@ -1,9 +1,13 @@
 # Graph_attackers_similarity
 
 Source IP - identifies the attacker.
+
 Attack Type - What kind of attack was it?
+
 Timestamp - When did the attack occur?
+
 Domain - What was attacked?
+
 Number of attacks - How much events belong to which IP?
 
 What graphs can be built:
